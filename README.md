@@ -15,3 +15,14 @@ To create a program to run a Pinewood Derby.
 * 3 [IR Breakbeam sensors](https://www.adafruit.com/product/2167)
 * 1-3 LED 
 * 1 [LCD Display](https://www.adafruit.com/product/1115)
+
+## Structure
+
+### sensor-test.py
+
+* Checks if all the IR Sensors are aligned properly
+* If so LED light will light up
+
+### run-race.py
+
+* Runs race
